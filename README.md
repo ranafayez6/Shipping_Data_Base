@@ -46,6 +46,9 @@ It provides a complete solution for managing customers, branches, drivers, shipm
 - Customer Lifetime Value (CLV)  
 - Return Rate  
 
+<img width="803" height="755" alt="Screenshot 2026-05-02 203631" src="https://github.com/user-attachments/assets/2f0dcf4d-cafb-405f-8eb2-5cadf52ab35f" />
+<img width="1170" height="768" alt="finalShipFlow drawio" src="https://github.com/user-attachments/assets/2a8dde8d-bbca-41d8-8bdc-be5cce4dd37c" />
+
 ---
 
 ## 📧 Contact & Support
